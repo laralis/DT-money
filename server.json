@@ -3,7 +3,7 @@
     {
       "id": 1,
       "description": "Desenvolvimento de site",
-      "category":"Venda",
+      "category": "Venda",
       "type": "income",
       "price": 14000,
       "createdAt": "2024-03-25T00:46:32.280Z"
@@ -11,10 +11,18 @@
     {
       "id": 2,
       "description": "Hamburguer",
-      "category":"Comida",
+      "category": "Comida",
       "type": "outcome",
       "price": 25,
       "createdAt": "2024-02-25T00:46:32.280Z"
+    },
+    {
+      "id": 3,
+      "description": "Canecas para time",
+      "category": "Utilidades",
+      "type": "outcome",
+      "price": 1000,
+      "createdAt": "2024-03-25T00:46:32.280Z"
     }
   ]
 }
