@@ -23,6 +23,46 @@
       "type": "outcome",
       "price": 1000,
       "createdAt": "2024-03-25T00:46:32.280Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-01T19:14:28.428Z",
+      "id": 4
+    },
+    {
+      "description": "Novos equipamentos",
+      "price": 25000,
+      "category": "Compras",
+      "type": "outcome",
+      "createdAt": "2024-04-01T19:17:24.479Z",
+      "id": 5
+    },
+    {
+      "description": "Comida pro aquário",
+      "price": 2000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2024-04-01T19:17:57.409Z",
+      "id": 6
+    },
+    {
+      "description": "Iogurte ",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-04-01T19:33:41.029Z",
+      "id": 7
+    },
+    {
+      "description": "Sites coorporativos",
+      "price": 30000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-01T20:38:26.753Z",
+      "id": 8
     }
   ]
 }
